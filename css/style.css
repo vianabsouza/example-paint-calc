@@ -1,0 +1,20 @@
+#resultados{
+    background-color: #fbfbfb;
+    border-radius: 5px;
+    visibility: hidden;
+    padding: 2%;
+}
+#resultados label{
+    font-size: 14px;
+    font-weight: bold;
+    padding-top: 1%;
+}
+#valores label{
+    font-size: 14px;
+    font-weight: bold;
+    padding-top: 1%;
+}
+
+#valores{
+    padding: 2%;
+}
